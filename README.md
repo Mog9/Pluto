@@ -7,13 +7,12 @@ This project is built for **learning, experimentation, and rapid iteration**, no
 try it out: https://plutoml.streamlit.app/
 ---
 
-## Demo
-
 **Demo Video**  
 
 https://github.com/user-attachments/assets/d873c497-3fe2-461a-9360-b6e9c8e7ca64
 
-The demo shows the complete workflow: CSV upload → preprocessing → model selection → training → evaluation and plots.
+The demo shows the complete workflow: 
+CSV upload → preprocessing → model selection → training → evaluation and plots.
 
 
 
